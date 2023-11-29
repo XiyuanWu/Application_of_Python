@@ -4,7 +4,7 @@
 
 This project involves a dataset obtained from an online high-speed rail service, including fields like ID, Datetime, and Count. The dataset spans from August 25, 2012, to September 25, 2014. It's split into training and testing sets to predict future commuter numbers. The testing set represents the actual data to compare against predictions made using the Direct Mean Method and Moving Mean Method.
 
-<img src="./Elements/da_p_1.png" width="500"/>
+<img src="./Elements/da_p_1.png" width="300"/>
 
 The primary goal here is to understand how the moving average can be used for time series prediction, without overly focusing on the accuracy of the predictions.
 
@@ -14,7 +14,7 @@ As the project was completed on a course website, the path will not work in a lo
 
 Here is a sample/expected output: 
 
-<img src="./Elements/da_p1_out.jpg" width="500"/>
+<img src="./Elements/da_p1_out.jpg" width="600"/>
 
 ---
 
