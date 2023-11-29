@@ -14,7 +14,7 @@ As the project was completed on a course website, the path will not work in a lo
 
 Here is a sample/expected output: 
 
-<img src="Data_Analysis/Elements/figure_1.jpg" width="500"/>
+<img src="./Elements/figure_1.jpg" width="500"/>
 
 ---
 
