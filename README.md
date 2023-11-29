@@ -3,6 +3,8 @@
 Python Combination Courses/Projects
 Need add content here - undone
 
+Please note this course is Non-English course, which all informaton such as comments, picture are also Non-English, but translate version in README avaiable.
+
 <img src="Element/Banner.jpg" width="1000"/>
 
 ## Courses
@@ -67,6 +69,8 @@ Need add content here - undone
 
 For more details about the projects in each course, please explore the respective folders.
 
-This course is taken at Baicizhan. For more information, please go to [np.baicizhan.com](http://np.baicizhan.com) (Non-English Site).
+This course is taken at Baicizhan. 
+
+For more information, please go to [np.baicizhan.com](http://np.baicizhan.com) (Non-English Site).
 
 
