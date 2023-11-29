@@ -73,4 +73,5 @@ This course is taken at Baicizhan.
 
 For more information, please go to [np.baicizhan.com](http://np.baicizhan.com) (Non-English Site).
 
-
+hh
+<img src="Element/figure_1.jpg" width="500"/>
