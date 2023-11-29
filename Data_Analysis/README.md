@@ -10,7 +10,7 @@ The primary goal here is to understand how the moving average can be used for ti
 
 ### Result
 
-As the project was completed on a course website, the path will not work in a local environment. The code is for display only.
+As the project was completed on a course website, the path will not work in a github. The code is for display only.
 
 Here is a sample/expected output: 
 
@@ -32,7 +32,7 @@ The dataset contains numerous missing values. Feifei plans to fill the missing v
 
 ### Result
 
-As the project was completed on a course website, the path will not work in a local environment. The code is for display only.
+As the project was completed on a course website, the path will not work in a github. The code is for display only.
 
 Here are sample/expected outputs: 
 
