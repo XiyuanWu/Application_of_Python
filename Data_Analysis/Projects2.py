@@ -1,4 +1,3 @@
-# 尝试下地狱难度~
 # 导入pandas模块
 import pandas as pd
 
