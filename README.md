@@ -67,3 +67,5 @@ Need add content here - undone
 
 For more details about the projects in each course, please explore the respective folders.
 
+This course is taken at Baicizhan. For more information, please go to np.baicizhan.com(Non English Site).
+
