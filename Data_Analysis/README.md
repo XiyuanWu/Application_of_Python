@@ -14,7 +14,7 @@ As the project was completed on a course website, the path will not work in a lo
 
 Here is a sample/expected output: 
 
-<img src="./Elements/da_p1_out.jpg" width="600"/>
+<img src="./Elements/da_p1_out.jpg" width="1000"/>
 
 ---
 
@@ -26,7 +26,7 @@ Feifei, the owner of a major computer service contracting company, has records o
 
 Her business data is shown in the following image:
 
-<img src="./Elements/da_p_2.png" width="500"/>
+<img src="./Elements/da_p_2.png" width="600"/>
 
 The dataset contains numerous missing values. Feifei plans to fill the missing values in the 'debt' and 'loan' columns with 0, and use linear regression to predict and fill missing values in 'capital', 'assets_1', 'assets_2', 'expenditure_3', and 'tax'. A classification decision tree model is then used, with the final output being the AUC evaluation metric.
 
