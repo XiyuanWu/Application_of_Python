@@ -1,9 +1,9 @@
 import pandas as pd
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import roc_auc_score
+# from sklearn.linear_model import LinearRegression
+# from sklearn.model_selection import train_test_split
+# from sklearn.tree import DecisionTreeClassifier
+# from sklearn.model_selection import cross_val_score
+# from sklearn.metrics import roc_auc_score
 
 df = pd.read_csv("/Users/data5_1/train_data.csv")
 
