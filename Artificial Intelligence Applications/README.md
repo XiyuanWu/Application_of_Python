@@ -16,7 +16,7 @@ This project involves classifying photos and moving them to corresponding folder
 
 ## Result
 
-Note: As this project was completed on a course website, the file paths provided in the code will not function in a local environment. The code is included here for display purposes only.
+Note: As this project was completed on a course website, the file paths provided in the code will not function in a local environment. And API is unavaiable other in course website. The code is included here for display purposes only.
 
 ### Sample/Expected Output
 
