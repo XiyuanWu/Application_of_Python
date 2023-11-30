@@ -18,6 +18,6 @@ Due to the project being conducted on a course website, the paths provided in th
 
 If you want to see dynamic visualization html, please navigate to follow link, run code and open in brower:
 
-[Separate](XiyuanWu/Nocturne_Projects/Data_Visualization/Element/Separate.html)
+[Separate_show](./Element/Separate.html)
 
-[All_combine](XiyuanWu/Nocturne_Projects/Data_Visualization/Element/All_combine.html)
+[All_in_one](./Element/All_in_one.html)
