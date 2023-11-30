@@ -6,7 +6,7 @@ MuMu, a food enthusiast, has a passion for culinary adventures. Before embarking
 
 ### Preview
 
-The preview of the visualization dashboard will be updated here later.
+This is the preview of the visualization dashboard.
 
 <img src="./Element/Preview.png" width="1000" alt="Preview Image Placeholder"/>
 
@@ -16,7 +16,8 @@ Due to the project being conducted on a course website, the paths provided in th
 
 ### Sample/Expected Output
 
-Here are the sample or expected outputs in HTML format:
+If you want to see dynamic visualization html, please navigate to follow link, run code and open in brower:
 
-<img src="./Element/Separate.html" width="500" alt="HTML Output 1"/>
-<img src="./Element/All_combine.html" width="500" alt="HTML Output 2"/>
+[Separate](XiyuanWu/Nocturne_Projects/Data_Visualization/Element/Separate.html)
+
+[All_combine](XiyuanWu/Nocturne_Projects/Data_Visualization/Element/All_combine.html)
