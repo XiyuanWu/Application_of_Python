@@ -16,7 +16,7 @@ Due to the project being conducted on a course website, the paths provided in th
 
 ### Sample/Expected Output
 
-If you want to see dynamic visualization html, please navigate to follow link, run code and open in brower:
+If you want to explore dynamic visualization html, please navigate to follow link, run code and open in brower:
 
 [Separate_show](./Element/Separate.html)
 
