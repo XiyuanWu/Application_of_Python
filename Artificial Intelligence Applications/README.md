@@ -22,4 +22,5 @@ Note: As this project was completed on a course website, the file paths provided
 
 Here is a sample or expected output from the project:
 
-<img src="link/example.jpg" width="500" alt="Sample Output"/>
+<img src="./Element/pic1.jpeg" width="700" alt="Sample Output"/>
+<img src="./Element/pic2.jpeg" width="700" alt="Sample Output"/>

@@ -4,7 +4,7 @@
 
 This project involves a dataset obtained from an online high-speed rail service, including fields like ID, Datetime, and Count. The dataset spans from August 25, 2012, to September 25, 2014. It's split into training and testing sets to predict future commuter numbers. The testing set represents the actual data to compare against predictions made using the Direct Mean Method and Moving Mean Method.
 
-<img src="./Elements/da_p_1.png" width="300"/>
+<img src="./Element/da_p_1.png" width="300"/>
 
 The primary goal here is to understand how the moving average can be used for time series prediction, without overly focusing on the accuracy of the predictions.
 
@@ -14,7 +14,7 @@ As the project was completed on a course website, the path will not work in a gi
 
 Here is a sample/expected output: 
 
-<img src="./Elements/da_p1_out.jpg" width="1000"/>
+<img src="./Element/da_p1_out.jpg" width="1000"/>
 
 ---
 
@@ -26,7 +26,7 @@ Feifei, the owner of a major computer service contracting company, has records o
 
 Her business data is shown in the following image:
 
-<img src="./Elements/da_p_2.png" width="600"/>
+<img src="./Element/da_p_2.png" width="600"/>
 
 The dataset contains numerous missing values. Feifei plans to fill the missing values in the 'debt' and 'loan' columns with 0, and use linear regression to predict and fill missing values in 'capital', 'assets_1', 'assets_2', 'expenditure_3', and 'tax'. A classification decision tree model is then used, with the final output being the AUC evaluation metric.
 
