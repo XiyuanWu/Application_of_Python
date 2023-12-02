@@ -9,6 +9,7 @@ MuMu, a food enthusiast, has a passion for culinary adventures. Before embarking
 This is the preview of the visualization dashboard.
 
 <img src="./Element/Preview.png" width="1000" alt="Preview Image Placeholder"/>
+*Note: Course is taken Non-English so output result is also Non-English.*
 
 ## Result
 
