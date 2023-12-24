@@ -104,7 +104,7 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ---
-## Additional Course
+## Other Course
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500"/>
