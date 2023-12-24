@@ -1,12 +1,11 @@
-# Application_of_Python_Projects
-Nocturne_Projects
+# Application of Python
 
-Python Combination Courses/Projects
-Need add content here - undone
+## Nocturne_Projects
+
 
 Please note this course is Non-English course, which all informaton such as comments, picture are also Non-English, but translate version in README avaiable.
 
-<img src="Element/Banner.jpg" width="1000"/>
+<img src="Element/Banner.jpg" width="900"/>
 
 ## Courses
 
@@ -15,10 +14,27 @@ Please note this course is Non-English course, which all informaton such as comm
 
 **Content**: Cover data operations, conditional judgment, loops, functions, classes, and objects.
 
+Course Syllabus: 
+<a href="https://www.google.com/search?q=syllabus&rlz=1C1ONGR_enUS1045US1045&oq=syabullas&gs_lcrp=EgZjaHJvbWUqDQgBEAAYChgNGBMYgAQyBggAEEUYOTINCAEQABgKGA0YExiABDIOCAIQABgFGAoYDRgTGB7SAQg2NjY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
+    <img src="./Element/arrows.png" alt="Description of Image" width="15" height="15">
+</a>
+
+
+
+
 ---
 
-### Data Analysis
-<img src="Element/data_analysis.jpg" width="500"/>
+### Data Analysis(Fundamental)
+<img src="./Element/data_analysis_fund.png" width="500"/>
+
+**Content**: Introductory course covers data cleansing, data visualization, and other basic knowledge. Advanced course includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
+
+**Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
+
+---
+
+### Data Analysis(Advanced)
+<img src="./Element/data_analysis_advanced.jpg" width="500"/>
 
 **Content**: Introductory course covers data cleansing, data visualization, and other basic knowledge. Advanced course includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
 
