@@ -20,7 +20,7 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" height="15">
 </a>
 
----
+
 
 ### Data Analysis(Fundamental)
 <img src="./Element/data_analysis_fund.png" width="500"/>
@@ -46,7 +46,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
----
+
 
 ### Data Analysis(Advanced)
 <img src="./Element/data_analysis_advanced.jpg" width="500"/>
@@ -60,7 +60,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
----
+
 
 ### SQL Data Query and Processing
 <img src="Element/SQL.png" width="500"/>
@@ -74,7 +74,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Red Packet Collection Analysis using SQL.
 
----
+
 
 ### Data Visualization
 <img src="Element/data_visual.jpg" width="500"/>
@@ -88,7 +88,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
 
----
+
 
 ### Artificial Intelligence Applications
 <img src="Element/AI.jpg" width="500"/>
@@ -103,8 +103,8 @@ Complete Course Syllabus&Content(Non-English):
 **Projects**: Face detection in images, mask detection using API.
 
 
-<hr style="border: 2px solid black; width: 80%; margin: 20px auto;">
-
+---
+## Additional Course
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500"/>
@@ -118,13 +118,18 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Property listing analysis using crawler technology.
 
----
 
-## Additional Courses
+## Web Development Basics
+<img src="./Element/" width="500"/>
 
-- Web Development Basics
-- Fun Tools
-- Office Efficiency
+
+## Fun Tools
+<img src="Element/course_spider.jpg" width="500"/>
+
+
+## Office Efficiency
+<img src="Element/course_spider.jpg" width="500"/>
+
 
 For more details about the projects in each course, please explore the respective folders.
 
