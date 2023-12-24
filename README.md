@@ -15,8 +15,8 @@ Please note this course is Non-English course, which all informaton such as comm
 **Content**: Cover data operations, conditional judgment, loops, functions, classes, and objects.
 
 Course Syllabus: 
-<a href="https://www.google.com/search?q=syllabus&rlz=1C1ONGR_enUS1045US1045&oq=syabullas&gs_lcrp=EgZjaHJvbWUqDQgBEAAYChgNGBMYgAQyBggAEEUYOTINCAEQABgKGA0YExiABDIOCAIQABgFGAoYDRgTGB7SAQg2NjY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8">
-    <img src="./Element/arrows.png" alt="Description of Image" width="15" height="15">
+<a href="">
+    <img src="./Element/arrows.png" alt="Course Syllabus:" width="15" height="15">
 </a>
 
 
