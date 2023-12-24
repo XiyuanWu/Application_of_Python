@@ -102,6 +102,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Face detection in images, mask detection using API.
 
+
 <hr style="border: 2px solid black; width: 80%; margin: 20px auto;">
 
 
