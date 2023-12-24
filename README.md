@@ -120,18 +120,53 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ## Web Development Basics
-<img src="./Element/" width="500"/>
+<img src="./Element/website.jpg" width="500"/>
+
+**Content**: 
+
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
+
+**Projects**: 
 
 
 ## Fun Tools
-<img src="Element/course_spider.jpg" width="500"/>
+<img src="./Element/fun_tools.jpg" width="500"/>
+
+**Content**: 
+
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
+
+**Projects**: 
 
 
 ## Office Efficiency
-<img src="Element/course_spider.jpg" width="500"/>
+<img src="./Element/course_office.jpg" width="500"/>
+
+**Content**: 
 
 
-For more details about the projects in each course, please explore the respective folders.
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
+
+**Projects**: 
+
+
+---
+
+For more details about the projects in each course, please see the respective folders.
 
 This course is taken at Baicizhan. 
 
