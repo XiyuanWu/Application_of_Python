@@ -2,6 +2,7 @@
 
 ## Nocturne_Projects
 
+Note: Some part is undone.
 
 Please note this course is Non-English course, which all informaton such as comments, picture are also Non-English, but translate version in README avaiable.
 
@@ -14,20 +15,34 @@ Please note this course is Non-English course, which all informaton such as comm
 
 **Content**: Cover data operations, conditional judgment, loops, functions, classes, and objects.
 
-Course Syllabus: 
+Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" alt="Course Syllabus:" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" height="15">
 </a>
-
-
-
 
 ---
 
 ### Data Analysis(Fundamental)
 <img src="./Element/data_analysis_fund.png" width="500"/>
 
-**Content**: Introductory course covers data cleansing, data visualization, and other basic knowledge. Advanced course includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
+**Content**: Introductory course covers NumPy, Pandas, data cleansing, data visualization, and other basic knowledge, whole class is based on Python.
+
+Brief Syllabus:
+| Lesson Number | Topic |
+|---------------|-------|
+| Lesson 1      | Step of Data Analysis |
+| Lessons 2-11  | NumPy and Pandas Basics |
+| Lessons 12-14 | Data Cleaning |
+| Lessons 15-18 | Data Visualization Basic |
+| Lessons 19-20 | Descriptive Analysis |
+| Lessons 21-23 | Grouping and Aggregation |
+| Lessons 24-25 | Union and Merge |
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
@@ -36,7 +51,12 @@ Course Syllabus:
 ### Data Analysis(Advanced)
 <img src="./Element/data_analysis_advanced.jpg" width="500"/>
 
-**Content**: Introductory course covers data cleansing, data visualization, and other basic knowledge. Advanced course includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
+**Content**: Includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
@@ -47,6 +67,11 @@ Course Syllabus:
 
 **Content**: Covers basic lookups, aggregation, statistics, multi-table processing, and Python interactions.
 
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
 **Projects**: Red Packet Collection Analysis using SQL.
 
 ---
@@ -55,6 +80,11 @@ Course Syllabus:
 <img src="Element/data_visual.jpg" width="500"/>
 
 **Content**: Covers comparison and trend, composition and difference, part and whole, location, and density.
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
 
 **Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
 
@@ -65,14 +95,25 @@ Course Syllabus:
 
 **Content**: Covers natural language processing, image recognition, face recognition, text recognition, speech recognition (using API).
 
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
+
 **Projects**: Face detection in images, mask detection using API.
 
----
+<hr style="border: 2px solid black; width: 80%; margin: 20px auto;">
+
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500"/>
 
 **Content**: Covers web page requests and parsing, text crawling, image crawling, anti-crawling strategies.
+
+Complete Course Syllabus&Content(Non-English): 
+<a href="">
+    <img src="./Element/arrows.png" width="15" height="15">
+</a>
 
 **Projects**: Property listing analysis using crawler technology.
 
