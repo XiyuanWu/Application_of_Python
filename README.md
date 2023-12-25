@@ -122,7 +122,7 @@ Complete Course Syllabus&Content(Non-English):
 ## Web Development Basics
 <img src="./Element/website.jpg" width="500" style="height:auto;">
 
-**Content**: 
+**Content**: HTML basics, CSS basics, content grouping, layout and advanced
 
 
 Complete Course Syllabus&Content(Non-English): 
@@ -131,13 +131,13 @@ Complete Course Syllabus&Content(Non-English):
 </a>
 
 
-**Projects**: 
+**Projects**: Draw a doraemon. 
 
 
 ## Fun Tools
 <img src="./Element/fun_tools.jpg" width="500" style="height:auto;">
 
-**Content**: 
+**Content**: Covers QR code tools, drawing tools, PPT tools, design tools, expression tools, translation tools, automatic tools
 
 
 Complete Course Syllabus&Content(Non-English): 
@@ -145,8 +145,7 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-
-**Projects**: 
+**Projects**: Randomly selects a lucky person in the group photo.
 
 
 ## Office Efficiency
