@@ -1,12 +1,12 @@
 # Application of Python
 
-## Nocturne_Projects
+## Nocturne Projects Intro
 
-Note: Some part is undone.
-
-Please note this course is Non-English course, which all informaton such as comments, picture are also Non-English, but translate version in README avaiable.
+This is a series total of 10 Python class that include vaies of content, taken on 2021. Since this is done 2 year and more ago, I'm reviewing them right now.
 
 <img src="Element/Banner.jpg" width="950" style="height:auto;">
+
+Below is course list:
 
 ## Courses
 
@@ -20,6 +20,8 @@ Complete Course Syllabus&Content(Non-English):
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Notes: Reviewed.*
 
 
 
@@ -39,6 +41,7 @@ Brief Syllabus:
 | Lessons 21-23 | Grouping and Aggregation |
 | Lessons 24-25 | Union and Merge |
 
+
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
@@ -46,6 +49,8 @@ Complete Course Syllabus&Content(Non-English):
 
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
+
+*Notes: Reviewed.*
 
 
 
@@ -54,12 +59,30 @@ Complete Course Syllabus&Content(Non-English):
 
 **Content**: Includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
 
+Brief Syllabus:
+ 
+| Lesson Number | Topic |
+|---------------|-------|
+| Lesson 1 | Step of Data Analysis |
+| Lessons 2-6 | Movie Intelligent Recommendation (Collaborative Filtering) |
+| Lessons 7-9 | Association Analysis and Apriori Algorithm |
+| Lessons 10-12 | Discretization and Data Binning (R,F,M) |
+| Lesson 13 | Introduction to Machine Learning |
+| Lessons 14-16 | Linear Regression Analysis |
+| Lessons 17-19 | Decision Trees |
+| Lesson 20 | Cluster Analysis (K-Mean) |
+| Lessons 21-22 | Basics of Quantitative Trading |
+| Lessons 23-25 | Timing Strategy |
+
+
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
+
+*Notes: To be review.*
 
 
 
@@ -68,12 +91,25 @@ Complete Course Syllabus&Content(Non-English):
 
 **Content**: Covers basic lookups, aggregation, statistics, multi-table processing, and Python interactions.
 
+Brief Syllabus:
+| Lesson Number | Topic |
+|---------------|-------|
+| Lessons 1-5  | Basic Searching |
+| Lessons 6-9  | Aggregate Statistics |
+| Lessons 10-16 | Multi-table Processing |
+| Lessons 17-21 | Python Interaction |
+| Lessons 22-25 | Comprehensive Application in Practice |
+
+
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Red Packet Collection Analysis using SQL.
+
+*Note: in progess.*
+
 
 
 
@@ -82,12 +118,28 @@ Complete Course Syllabus&Content(Non-English):
 
 **Content**: Covers comparison and trend, composition and difference, part and whole, location, and density.
 
+Brief Syllabus:
+
+| Lesson Number | Topic |
+|---------------|-------|
+| Lesson 1     | Process and Thought |
+| Lessons 2-5  | Comparison and Trends |
+| Lessons 6-7  | Composition and Differences |
+| Lessons 8-10 | Part and Whole |
+| Lessons 11-14 | Position and Density |
+| Lessons 15-17 | Distribution and Circulation |
+| Lessons 18-23 | Connection and Correlation |
+| Lessons 24-25 | Summary and Extension |
+
+
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
+
+*Notes: To be review.*
 
 
 
@@ -96,12 +148,28 @@ Complete Course Syllabus&Content(Non-English):
 
 **Content**: Covers natural language processing, image recognition, face recognition, text recognition, speech recognition (using API).
 
+Brief Syllabus:
+
+| Lesson Number | Topic |
+|---------------|-------|
+| Lesson 1     | Introduction to Artificial Intelligence |
+| Lessons 2-6  | Natural Language Processing |
+| Lessons 7-10 | Image Recognition |
+| Lessons 11-14 | Face Recognition |
+| Lessons 15-16 | Text Recognition |
+| Lessons 17-22 | Speech Recognition |
+| Lesson 23 | Speech Synthesis |
+| Lessons 24-25 | API Use Tutorial |
+
+
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Face detection in images, mask detection using API.
+**Projects**: Face detection in images, mask detection by using API.
+
+*Notes: To be review.*
 
 
 ---
