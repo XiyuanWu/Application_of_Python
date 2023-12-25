@@ -10,6 +10,7 @@ Please note this course is Non-English course, which all informaton such as comm
 
 ## Courses
 
+
 ### Introductory Python Course
 <img src="Element/base_pro.jpg" width="500" style="height:auto;">
 
@@ -105,6 +106,8 @@ Complete Course Syllabus&Content(Non-English):
 
 ---
 ## Other Course
+
+*Notes: To be review.*
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500" style="height:auto;">
