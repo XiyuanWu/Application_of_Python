@@ -50,7 +50,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
-*Notes: Reviewed.*
+*Notes: Review in progress.*
 
 
 
