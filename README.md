@@ -2,11 +2,11 @@
 
 ## Nocturne Projects Intro
 
-This is a series total of 10 Python classes that include varies of content, taken in 2021. Since this was done two years and more ago, I'm reviewing them right now.
+This is a series total of 10 Python class that include vaies of content, taken on 2021. Since this is done 2 year and more ago, I'm reviewing them right now.
 
 <img src="Element/Banner.jpg" width="950" style="height:auto;">
 
-Below is the course list:
+Below is course list:
 
 ## Courses
 
@@ -28,7 +28,7 @@ Complete Course Syllabus&Content(Non-English):
 ### Data Analysis(Fundamental)
 <img src="./Element/data_analysis_fund.png" width="500" style="height:auto;">
 
-**Content**: The introductory course covers NumPy, Pandas, data cleansing, data visualization, and other basic knowledge, whole class is based on Python.
+**Content**: Introductory course covers NumPy, Pandas, data cleansing, data visualization, and other basic knowledge, whole class is based on Python.
 
 Brief Syllabus:
 | Lesson Number | Topic |
@@ -108,7 +108,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Red Packet Collection Analysis using SQL.
 
-*Note: in progress.*
+*Note: Review in progess.*
 
 
 
@@ -137,9 +137,9 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Various visualizations, including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
+**Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
 
-*Notes: To be reviewed.*
+*Notes: To be review.*
 
 
 
@@ -167,20 +167,20 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Face detection in images and mask detection by using API.
+**Projects**: Face detection in images, mask detection by using API.
 
-*Notes: To be reviewed.*
+*Notes: To be review.*
 
 
 ---
 ## Other Course
 
-*Notes: To be reviewed.*
+*Notes: To be review.*
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500" style="height:auto;">
 
-**Content**: Covers web page requests and parsing, text crawling, image crawling, and anti-crawling strategies.
+**Content**: Covers web page requests and parsing, text crawling, image crawling, anti-crawling strategies.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
@@ -216,7 +216,7 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Randomly select a lucky person in the group photo.
+**Projects**: Randomly selects a lucky person in the group photo.
 
 
 ## Office Efficiency
@@ -231,7 +231,7 @@ Complete Course Syllabus&Content(Non-English):
 </a>
 
 
-**Projects**: Read into a folder including Word, Excel, and PDF files, find the phone number, and add it to the list.
+**Projects**: Read into a folder include Word, excel and pdf file, find phone number and add to list.
 
 
 ---
@@ -240,4 +240,4 @@ For more details about the projects in each course, please see the respective fo
 
 This course is taken at Baicizhan. 
 
-For more information, please go to the Course site at[np.baicizhan.com](http://np.baicizhan.com) (Non-English Site).
+For more information, please go to [np.baicizhan.com](http://np.baicizhan.com) (Non-English Site).
