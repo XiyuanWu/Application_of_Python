@@ -6,24 +6,24 @@ Note: Some part is undone.
 
 Please note this course is Non-English course, which all informaton such as comments, picture are also Non-English, but translate version in README avaiable.
 
-<img src="Element/Banner.jpg" width="900"/>
+<img src="Element/Banner.jpg" width="950" style="height:auto;">
 
 ## Courses
 
 ### Introductory Python Course
-<img src="Element/base_pro.jpg" width="500"/>
+<img src="Element/base_pro.jpg" width="500" style="height:auto;">
 
 **Content**: Cover data operations, conditional judgment, loops, functions, classes, and objects.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 
 
 ### Data Analysis(Fundamental)
-<img src="./Element/data_analysis_fund.png" width="500"/>
+<img src="./Element/data_analysis_fund.png" width="500" style="height:auto;">
 
 **Content**: Introductory course covers NumPy, Pandas, data cleansing, data visualization, and other basic knowledge, whole class is based on Python.
 
@@ -40,7 +40,7 @@ Brief Syllabus:
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 
@@ -49,13 +49,13 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ### Data Analysis(Advanced)
-<img src="./Element/data_analysis_advanced.jpg" width="500"/>
+<img src="./Element/data_analysis_advanced.jpg" width="500" style="height:auto;">
 
 **Content**: Includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
@@ -63,13 +63,13 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ### SQL Data Query and Processing
-<img src="Element/SQL.png" width="500"/>
+<img src="Element/SQL.png" width="500" style="height:auto;">
 
 **Content**: Covers basic lookups, aggregation, statistics, multi-table processing, and Python interactions.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Red Packet Collection Analysis using SQL.
@@ -77,13 +77,13 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ### Data Visualization
-<img src="Element/data_visual.jpg" width="500"/>
+<img src="Element/data_visual.jpg" width="500" style="height:auto;">
 
 **Content**: Covers comparison and trend, composition and difference, part and whole, location, and density.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
@@ -91,13 +91,13 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ### Artificial Intelligence Applications
-<img src="Element/AI.jpg" width="500"/>
+<img src="Element/AI.jpg" width="500" style="height:auto;">
 
 **Content**: Covers natural language processing, image recognition, face recognition, text recognition, speech recognition (using API).
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Face detection in images, mask detection using API.
@@ -107,27 +107,27 @@ Complete Course Syllabus&Content(Non-English):
 ## Other Course
 
 ### Web Crawler
-<img src="Element/course_spider.jpg" width="500"/>
+<img src="Element/course_spider.jpg" width="500" style="height:auto;">
 
 **Content**: Covers web page requests and parsing, text crawling, image crawling, anti-crawling strategies.
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 **Projects**: Property listing analysis using crawler technology.
 
 
 ## Web Development Basics
-<img src="./Element/website.jpg" width="500"/>
+<img src="./Element/website.jpg" width="500" style="height:auto;">
 
 **Content**: 
 
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 
@@ -135,14 +135,14 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ## Fun Tools
-<img src="./Element/fun_tools.jpg" width="500"/>
+<img src="./Element/fun_tools.jpg" width="500" style="height:auto;">
 
 **Content**: 
 
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 
@@ -150,18 +150,18 @@ Complete Course Syllabus&Content(Non-English):
 
 
 ## Office Efficiency
-<img src="./Element/course_office.jpg" width="500"/>
+<img src="./Element/course_office.jpg" width="500" style="height:auto;">
 
-**Content**: 
+**Content**: Covers automatic classification of files, reading and classifying photo information, reading and writing Excel, Word, PDF documents, comprehensive office applications
 
 
 Complete Course Syllabus&Content(Non-English): 
 <a href="">
-    <img src="./Element/arrows.png" width="15" height="15">
+    <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
 
-**Projects**: 
+**Projects**: Read into a folder include Word, excel and pdf file, find phone number and add to list.
 
 
 ---
