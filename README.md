@@ -7,6 +7,7 @@ This is a series total of 10 Python class that include vaies of content, taken o
 <img src="Element/Banner.jpg" width="950" style="height:auto;">
 
 Below is the course list:
+
 *Notes: Some courses complete Course are not updated yet.*
 
 ## Courses
