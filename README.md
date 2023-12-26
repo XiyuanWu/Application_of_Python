@@ -8,7 +8,7 @@ This is a series total of 10 Python class that include vaies of content, taken o
 
 Below is the course list:
 
-*Notes: Some courses complete Course are not updated yet.*
+*Notes: Some course's complete syllabus are not updated yet.*
 
 ## Courses
 
