@@ -1,48 +1,35 @@
 import pandas as pd
-# from sklearn.linear_model import LinearRegression
-# from sklearn.model_selection import train_test_split
-# from sklearn.tree import DecisionTreeClassifier
-# from sklearn.model_selection import cross_val_score
-# from sklearn.metrics import roc_auc_score
+import matplotlib.pyplot as plt
 
-df = pd.read_csv("/Users/data5_1/train_data.csv")
+df = pd.read_csv("/Users/forecast/jetrail.csv")
 
-df["grade"] = df["grade"].replace({'A': 7, 'B': 6, 'C': 5, 'D': 4, 'E': 3, 'F': 2, 'G': 1})
+df["Datetime"] = pd.to_datetime(df["Datetime"]) 
+df.set_index(["Datetime"], inplace=True)
 
-df["debt"] = df["debt"].fillna(0)
-df["loan"] = df["loan"].fillna(0)
+train = df.iloc[10000:17553]
+test = df.iloc[17553:]
 
-lr_data = df[["code", "investment", "stock", "income", "expenditure_1", "expenditure_2", "debt", "loan", "grade", "Label"]]
+df = df.resample("D").mean()
+train = train.resample("D").mean()
+test = test.resample("D").mean()
 
-for i in ["capital", "assets_1", "assets_2", "expenditure_3", "tax"]:
-    dfi = df[i].copy()
-    null_index = dfi.isnull()
-    lr_train = lr_data[~null_index]
-    lr_test = lr_data[null_index]
-    lr_y_train = df[~null_index][i]
-    lr_model = LinearRegression()
-    lr_model.fit(lr_train, lr_y_train)
-    predict = lr_model.predict(lr_test)
-    for j in range(len(lr_test)):
-        index = lr_test.index[j]
-        dfi[index] = predict[j]
-    df[i] = dfi
+y_hat_avg = test.copy()
 
-x = df.drop(columns=["ID", "Label"])
-y = df["Label"]
+y_hat_avg["avg_forecast"] = train["Count"].mean()
 
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=51)
+train_series = train["Count"].copy()
 
-DT_model = DecisionTreeClassifier(max_depth=3, random_state=598)
+result = []
 
-cross_val_auc = cross_val_score(DT_model, x_train, y_train, scoring='roc_auc', cv=10)
+for i in y_hat_avg.index:
+    predict = train_series.rolling(window=10).mean()[-1]
+    train_series[i] = predict
+    result.append(predict)
 
-print(cross_val_auc.mean())
+plt.plot(train.index, train["Count"], color="blue", label="train")
+plt.plot(test.index, test["Count"], color="gray", label="test")
+plt.plot(y_hat_avg.index, y_hat_avg["avg_forecast"], color="red", label="Average Forecast")
+plt.plot(y_hat_avg.index, result, color="green", label="Moving Average Forecast")
 
-DT_model.fit(x_train, y_train)
-
-y_pred_proba = DT_model.predict_proba(x_test)
-
-auc = roc_auc_score(y_test, y_pred_proba[:, 1])
-
-print(auc)
+plt.legend()
+plt.show()
