@@ -82,7 +82,7 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
+**Projects**: RFM user stratification, simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies. 
 
 *Notes: To be reviewed.*
 
