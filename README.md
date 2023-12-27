@@ -45,10 +45,11 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://drive.weixin.qq.com/s?k=AM8AYAc1AEoO2Da1iA">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
+*Note: This course only have non-translatable file.*
 
 **Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
 
@@ -59,7 +60,7 @@ Complete Course Syllabus&Content(Non-English):
 ### Data Analysis(Advanced)
 <img src="./Element/data_analysis_advanced.jpg" width="500" style="height:auto;">
 
-**Content**: Includes intelligent recommendation (KFM model), association rules, regression analysis, etc.
+**Content**: Includes intelligent recommendation (RFM model), association rules, regression analysis, etc.
 
 Brief Syllabus:
  
@@ -78,9 +79,11 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://drive.weixin.qq.com/s?k=AM8AYAc1AEov6vOQwz">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course only have non-translatable file.*
 
 **Projects**: RFM user stratification, simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies. 
 
@@ -165,9 +168,11 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/GgYtIHiMxh6RUoTY  ">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course has online file that translatable.*
 
 **Projects**: Face detection in images, mask detection by using API.
 
@@ -185,9 +190,11 @@ Complete Course Syllabus&Content(Non-English):
 **Content**: Covers web page requests and parsing, text crawling, image crawling, anti-crawling strategies.
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/47kgMYx8jJtZoR3V">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course has online file that translatable.*
 
 **Projects**: Property listing analysis using crawler technology.
 
@@ -197,11 +204,12 @@ Complete Course Syllabus&Content(Non-English):
 
 **Content**: HTML basics, CSS basics, content grouping, layout and advanced
 
-
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/QL9gIoDxuuvddJdA">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course has online file that translatable.*
 
 
 **Projects**: Draw a doraemon. 
@@ -214,9 +222,11 @@ Complete Course Syllabus&Content(Non-English):
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/RKAWMyZvWNIblGq8">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course has online file that translatable.*
 
 **Projects**: Randomly selects a lucky person in the group photo.
 
