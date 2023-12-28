@@ -51,7 +51,7 @@ Complete Course Syllabus&Content(Non-English):
 
 *Note: This course only have non-translatable file.*
 
-**Projects**: 
+**Projects**: Data cleaning, explore Avocado data and Batch visualization.
 
 *Notes: Reviewed.*
 
