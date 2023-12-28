@@ -30,7 +30,7 @@ Complete Course Syllabus&Content(Non-English):
 ### Data Analysis(Fundamental)
 <img src="./Element/data_analysis_fund.png" width="500" style="height:auto;">
 
-**Content**: Introductory course covers NumPy, Pandas, data cleansing, data visualization, and other basic knowledge, whole class is based on Python.
+**Content**: Introductory course covers NumPy, Pandas, data cleansing, data visualization, grouping, union, resample data, and other basic knowledge, whole analysis class is based on Python.
 
 Brief Syllabus:
 | Lesson Number | Topic |
@@ -51,7 +51,7 @@ Complete Course Syllabus&Content(Non-English):
 
 *Note: This course only have non-translatable file.*
 
-**Projects**: Simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies.
+**Projects**: 
 
 *Notes: Reviewed.*
 
