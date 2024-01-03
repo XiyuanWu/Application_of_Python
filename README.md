@@ -113,9 +113,7 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Red Packet Collection Analysis using SQL.
 
-*Note: Review in progess.*
-
-
+*Note: Review in progress.*
 
 
 ### Data Visualization
@@ -138,13 +136,15 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/5bqndzzvYzI2QMAy">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-**Projects**: Various visualizations including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
+*Note: This course has online file that translatable.*
 
-*Notes: To be review.*
+**Projects**: Create dashboard including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
+
+*Notes: To be reviewed.*
 
 
 
