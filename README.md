@@ -71,7 +71,7 @@ Brief Syllabus:
 | Lessons 7-9 | Association Analysis(Apriori Algorithm) |
 | Lessons 10-12 | Discretization and Data Binning (R,F,M) |
 | Lesson 13 | Introduction to Machine Learning |
-| Lessons 14-16 | Linear Regression Analysis |
+| Lessons 14-16 | Regression Analysis |
 | Lessons 17-19 | Decision Trees |
 | Lesson 20 | Cluster Analysis (K-Mean) |
 | Lessons 21-22 | Basics of Quantitative Trading |
