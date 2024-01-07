@@ -68,7 +68,7 @@ Brief Syllabus:
 |---------------|-------|
 | Lesson 1 | Data Analysis(Fundamental) Review |
 | Lessons 2-6 | Artificial Intelligence Recommendation (Collaborative Filtering) |
-| Lessons 7-9 | Association Analysis and Apriori Algorithm |
+| Lessons 7-9 | Association Analysis(Apriori Algorithm) |
 | Lessons 10-12 | Discretization and Data Binning (R,F,M) |
 | Lesson 13 | Introduction to Machine Learning |
 | Lessons 14-16 | Linear Regression Analysis |
