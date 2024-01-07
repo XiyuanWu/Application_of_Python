@@ -45,7 +45,7 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="https://drive.weixin.qq.com/s?k=AM8AYAc1AEoO2Da1iA">
+<a href="https://drive.google.com/file/d/1aibk85Wclnx1fJBNfOmzzFEbWF9pPaET/view?usp=sharing">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
@@ -79,7 +79,7 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="https://drive.weixin.qq.com/s?k=AM8AYAc1AEov6vOQwz">
+<a href="https://drive.google.com/file/d/1aTbMYo7VPKve3b8bLAMqThIvfpFiMGOC/view?usp=sharing">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
