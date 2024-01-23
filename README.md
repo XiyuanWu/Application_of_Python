@@ -23,7 +23,6 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
-*Notes: Reviewed.*
 
 
 
@@ -53,7 +52,6 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Data cleaning, explore Avocado data and Batch visualization.
 
-*Notes: Reviewed.*
 
 
 
@@ -87,7 +85,6 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: RFM user stratification, simple Mean Prediction and Moving Mean Prediction for predicting the number of commuters and defaulted companies. 
 
-*Notes: To be reviewed.*
 
 
 
@@ -113,7 +110,6 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Red Packet Collection Analysis using SQL.
 
-*Note: Review in progress.*
 
 
 ### Data Visualization
@@ -144,7 +140,6 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Create dashboard including pie charts, rose charts, histograms, heat maps, horizontal bar charts, distribution maps, radar charts, and relationship graphs.
 
-*Notes: To be reviewed.*
 
 
 
@@ -176,13 +171,11 @@ Complete Course Syllabus&Content(Non-English):
 
 **Projects**: Face detection in images, mask detection by using API.
 
-*Notes: To be review.*
 
 
 ---
 ## Other Course
 
-*Notes: To be review.*
 
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500" style="height:auto;">
