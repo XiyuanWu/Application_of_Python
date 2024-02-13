@@ -12,6 +12,8 @@ Recently, Night Song Youshang organized a red packet (red envelope) grabbing eve
 ### Task
 Write SQL queries to assist Mingming in the second step of the analysis. This includes calculating the daily count of new users, existing users, and users who didn't log in, as well as the average amount and number of red packets received per user.
 
+### Result
+<img src="./output.png" width="500" style="height:auto;">
 
 ### Additional Notes
 - Ensure data accuracy by carefully considering the join conditions between the `user_active` and `get_redpacket` tables.
