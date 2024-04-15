@@ -174,11 +174,6 @@ Complete Course Syllabus&Content(Non-English):
 **Projects**: Face detection in images, mask detection by using API.
 
 
-
----
-## Other Course
-
-
 ### Web Crawler
 <img src="Element/course_spider.jpg" width="500" style="height:auto;">
 
@@ -190,6 +185,21 @@ Complete Course Syllabus&Content(Non-English):
 </a>
 
 *Note: This course has online file that translatable.*
+
+
+Brief Syllabus:
+
+| Lesson Number | Topics                  |
+|---------------|-------------------------|
+| Lesson 1-4    | Basics of Web Scraping  |
+| Lesson 5-7    | Scraping Movie Reviews  |
+| Lesson 8-10   | Bulk Image Retrieval    |
+| Lesson 11-13  | Retrieving Video Site Comments |
+| Lesson 14-16  | Filtering Job Postings  |
+| Lesson 17-20  | Scraping Product Information |
+| Lesson 21-24  | Daily Report Push       |
+| Lesson 25     | Conclusion              |
+
 
 **Projects**: Property listing analysis using crawler technology.
 
@@ -206,6 +216,18 @@ Complete Course Syllabus&Content(Non-English):
 
 *Note: This course has online file that translatable.*
 
+Brief Syllabus:
+
+| Lesson Number | Topics                  |
+|---------------|-------------------------|
+| Lesson 1      | Entering the Web World  |
+| Lesson 2-4    | Basics of HTML          |
+| Lesson 5-6    | Basics of CSS           |
+| Lesson 7-12   | Content Grouping        |
+| Lesson 13-16  | Typesetting and Layout  |
+| Lesson 17-22  | Advanced Typesetting and Layout |
+| Lesson 23-25  | Project Practicum       |
+
 
 **Projects**: Draw a doraemon. 
 
@@ -221,6 +243,21 @@ Complete Course Syllabus&Content(Non-English):
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
+Brief Syllabus:
+
+| Lesson Number | Topics                  |
+|---------------|-------------------------|
+| Lesson 1-2    | First Text Game         |
+| Lesson 3-5    | QR Code Tool            |
+| Lesson 6-8    | Drawing Tool            |
+| Lesson 9-11   | PPT Tool                |
+| Lesson 12-14  | Design Tool             |
+| Lesson 15-17  | Confession Tool         |
+| Lesson 18-20  | Translation Tool        |
+| Lesson 21-23  | Automation Tool         |
+| Lesson 24-25  | Design Own Tool         |
+
+
 *Note: This course has online file that translatable.*
 
 **Projects**: Randomly selects a lucky person in the group photo.
@@ -230,6 +267,20 @@ Complete Course Syllabus&Content(Non-English):
 <img src="./Element/course_office.jpg" width="500" style="height:auto;">
 
 **Content**: Covers automatic classification of files, reading and classifying photo information, reading and writing Excel, Word, PDF documents, comprehensive office applications
+
+Brief Syllabus:
+
+| Lesson Number | Topics                         |
+|---------------|--------------------------------|
+| Lesson 1-4    | Automatic File Classification  |
+| Lesson 5-6    | Reading and Classifying Photos |
+| Lesson 7-9    | Reading Excel Documents        |
+| Lesson 10-12  | Writing Excel Documents        |
+| Lesson 13-16  | Reading Word Documents         |
+| Lesson 17-19  | Writing Word Documents         |
+| Lesson 20-22  | Reading PDF Documents          |
+| Lesson 23-24  | Integrated Office Applications |
+| Lesson 25     | Practical Application          |
 
 
 Complete Course Syllabus&Content(Non-English): 
