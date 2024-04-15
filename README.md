@@ -104,9 +104,11 @@ Brief Syllabus:
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://shimo.im/docs/m8AZMZMa0PuExGkb/">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
+
+*Note: This course has online file that translatable.*
 
 **Projects**: Red Packet Collection Analysis using SQL.
 
@@ -231,10 +233,11 @@ Complete Course Syllabus&Content(Non-English):
 
 
 Complete Course Syllabus&Content(Non-English): 
-<a href="">
+<a href="https://drive.google.com/file/d/1QcxmhPNuLci13o09i58e3mpTFzWnSnyd/view?usp=sharing">
     <img src="./Element/arrows.png" width="15" style="height:auto;">
 </a>
 
+*Note: This course only have non-translatable file.*
 
 **Projects**: Read into a folder include Word, excel and pdf file, find phone number and add to list.
 
